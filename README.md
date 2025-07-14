@@ -44,9 +44,5 @@ The report highlights the following:
 - **Fraud Occurrence by Hour**
 - **Fraud Count by Amount Category** (Small, Medium, Large, Very Large)
 
-> 📁 Power BI file: `project2(PowerBI).pbix`
 
----
-
-## 📁 Folder Structure
 
